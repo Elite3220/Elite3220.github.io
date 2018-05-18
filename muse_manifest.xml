@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://Elite3220.github.io" resolutions="1x" timestamp="1526621845025">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://Elite3220.github.io" resolutions="1x" timestamp="1526625080958">
   <folder name="css">
     <file name="site_global.css" crc="459502613"/>
     <file name="freudian.css" crc="399416104" ref="freudian"/>
@@ -70,10 +70,10 @@
       <caption webpage="post-colonial" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="67480995" seo="true" mt="1526564910929" redirect="true"/>
-  <file name="contact.html" crc="3862013819" seo="true" mt="1526565024613" redirect="true"/>
-  <file name="feminist.html" crc="445023749" seo="true" mt="1526564887783" redirect="true"/>
-  <file name="freudian.html" crc="3799041626" seo="true" mt="1526565286382" redirect="true"/>
-  <file name="marxism.html" crc="3810100573" seo="true" mt="1526565610305" redirect="true"/>
-  <file name="post-colonial.html" crc="4122516094" seo="true" mt="1526565534299" redirect="true"/>
+  <file name="index.html" crc="4265751191" seo="true" mt="1526624860607" redirect="true"/>
+  <file name="contact.html" crc="4174664510" seo="true" mt="1526624900825" redirect="true"/>
+  <file name="feminist.html" crc="450725653" seo="true" mt="1526624953983" redirect="true"/>
+  <file name="freudian.html" crc="2040048" seo="true" mt="1526625044280" redirect="true"/>
+  <file name="marxism.html" crc="4015218655" seo="true" mt="1526624986831" redirect="true"/>
+  <file name="post-colonial.html" crc="4016030345" seo="true" mt="1526625013482" redirect="true"/>
 </manifest>
